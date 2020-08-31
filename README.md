@@ -80,7 +80,7 @@
 ![Screenshot_2020-08-31 React App](https://user-images.githubusercontent.com/26249973/91741555-84afe180-ebd2-11ea-884b-b77e74dc06a0.png)
 
 
-`enraiha0307`, `Countdown Timer`, `twitter_handle`, `akankshagahlot0307@gmail.com`
+`enraiha0307`, `To-do List`, `@AkankshaGahalot`, `akankshagahlot0307@gmail.com`
 
 
 ### Built With
